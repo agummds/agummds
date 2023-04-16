@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Agum Medisa**.\
+Perkenalkan nama saya **Agum Medisa**.
 
-Saya seorang mahasiswa **Teknik Komputer Universiras Andalas** angkatan **2021**.\
+Saya seorang mahasiswa **Teknik Komputer Universiras Andalas** angkatan **2021**.
 
 Saat ini saja ingin fokus mendalami spesialis IT di bidang Software Engineer, sebenarnya banyak hal
 yang ingin saya fokuskan, seperti cloud engineer dan software developer  
