@@ -10,8 +10,7 @@ yang ingin saya fokuskan, seperti cloud engineer dan software developer
 Saya juga mempunyai akun [LinkedIn](https://www.linkedin.com/in/agum-medisa-237030202/), jangan lupa saling berkoneksi ya...    
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="C++" title="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
-   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="40px" src="MySQL textlogo.svg" /></a>
+  <a href="#"><img align="left" alt="C++" title="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>  
 <br>
 <br>  
 
