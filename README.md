@@ -18,6 +18,5 @@ Saya juga mempunyai akun [LinkedIn](https://www.linkedin.com/in/agum-medisa-2370
 <p align="left">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agummds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agummds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
