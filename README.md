@@ -7,7 +7,7 @@ I am a student of **[Computer Engineering](http://ce.fti.unand.ac.id/)** **[Anda
 Right now I want to focus on studying IT specialist in the field of Software Engineer, actually there are many things
 that I want to focus on, such as cloud engineers and software developers
 
-I also have a [LinkedIn] account (https://www.linkedin.com/in/agum-medisa-237030202/), don't forget to connect with each other...   
+I also have a [LinkedIn](https://www.linkedin.com/in/agum-medisa-237030202/) account, don't forget to connect with each other...   
 
 ### Tech Stack
 <br>
