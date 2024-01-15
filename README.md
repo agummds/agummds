@@ -1,13 +1,13 @@
-# Halo semua! 
+# Halo! 
 
-Perkenalkan nama saya **Agum Medisa**.
+Let me introduce myself, my name is **Agum Medisa**.
 
-Saya seorang mahasiswa **[Teknik Komputer](http://ce.fti.unand.ac.id/)** **[Universitas Andalas](https://www.unand.ac.id/)** angkatan **2021**.
+I am a student of **[Computer Engineering](http://ce.fti.unand.ac.id/)** **[Andalas University](https://www.unand.ac.id/)** class **2021**.
 
-Saat ini saja ingin fokus mendalami spesialis IT di bidang Software Engineer, sebenarnya banyak hal
-yang ingin saya fokuskan, seperti cloud engineer dan software developer  
+Right now I want to focus on studying IT specialist in the field of Software Engineer, actually there are many things
+that I want to focus on, such as cloud engineers and software developers
 
-Saya juga mempunyai akun [LinkedIn](https://www.linkedin.com/in/agum-medisa-237030202/), jangan lupa saling berkoneksi ya...    
+I also have a [LinkedIn] account (https://www.linkedin.com/in/agum-medisa-237030202/), don't forget to connect with each other...   
 
 ### Tech Stack
 <br>
