@@ -17,8 +17,4 @@ I also have a [LinkedIn](https://www.linkedin.com/in/agum-medisa-237030202/) acc
 <br>
 
 ### Github Statistic  
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agummds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=agummds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/agummds)
